@@ -1,9 +1,33 @@
-# Polinomios Positivos y Suma de Cuadrados — Primer cuatrimestre de 2018
+# Polinomios positivos y sumas de cuadrados
 
-## Prácticas
+**Profesor**: Daniel Perrucci\
 
-- [lista completa de ejercicios](Ejercicios.pdf)
+**Puntaje:** 4 puntos\
 
-## Página original
+**Correlatividades:** Álgebra II\
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/1ercuat2018/polimomios_positivos_y_suma_de_cuadrados)
+**Carreras:** Licenciatura en Matemática (Or. Pura y Aplicada), Profesorado en Matemática
+
+**Bibliografía:**\
+
+- Bochnak, Coste, Roy,
+  Real algebraic geometry. Results in Mathematics and Related Areas (3), 36. Springer-Verlag, Berlin,
+  1998.
+- Lasserre, Moments, positive polynomials and their
+  applications. Imperial College Press Optimization Series, Imperial College
+  Press, London,
+  2010.
+- Marshall, Positive
+  polynomials and sums of squares. Mathematical Surveys and Monographs, 146. American
+  Mathematical Society, Providence,
+  RI, 2008.
+- Prestel, Delzell,
+  Positive polynomials, from Hilbert's 17th problem to real algebra. Springer Monographs in Mathematics. Springer-Verlag,
+  Berlin, 2001.
+- Rockafellar,
+  Convex analysis. Princeton Univ. Press, Princeton, 1970.
+
+**Horario y lugar:** Martes y Viernes de 9:00 a 11:00, Aula 13, Pab. I
+
+**Lista de ejercicios:** Acá está disponible la
+[lista completa de ejercicios](Ejercicios.pdf). La fecha límite para entregar la lista de ejercicios resuelta es el 31/08/17.
